@@ -340,5 +340,3 @@ MSE ↑
 | $x' = \frac{x - x_{min}}{x_{max} - x_{min}}$ | Min-Max Scaling |
 
 ---
-
-*Cheatsheet ini dibuat dari praktikum Matkul Machine Learning — UTS*
